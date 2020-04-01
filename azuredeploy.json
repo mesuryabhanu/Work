@@ -65,7 +65,7 @@
         "numberOfWorkers": "[parameters('numberOfInstances')]",
         "linuxFxVersion": "NODE|lts",
         "hostingPlanName": "[concat('hpn-', parameters('siteName'))]",
-        "repoURL": "https://github.com/microsoft/HealthBotContainerSample.git",
+        "repoURL": "https://github.com/mesuryabhanu/Work.git",
         "branch": "master"
     },
     "resources": [
